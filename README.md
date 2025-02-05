@@ -1,4 +1,4 @@
-# Funtasies Website
+# Responsive Navbar
 
 [![Website](https://img.shields.io/website?url=https://responsive-navbar-bice.vercel.app)](https://responsive-navbar-bice.vercel.app)
 
